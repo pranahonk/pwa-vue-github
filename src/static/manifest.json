@@ -1,0 +1,22 @@
+{
+  "name": "pwa-github-vue",
+  "short_name": "pwa-github-vue",
+  "theme_color": "#043b67",
+  "background_color": "#0b77cd",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+     {
+       "src": "icon/favicon.ico",
+       "sizes": "512x512",
+       "type": "image/png"
+     },
+     {
+       "src": "icon/favicon.ico",
+       "sizes": "192x192",
+       "type": "image/png"
+     }
+   ]
+}
