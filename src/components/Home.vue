@@ -10,9 +10,6 @@
       <label>Profile name : {{ user.name }}</label> <br>
       <label>Profile bio : {{ user.bio }}</label>
     </div>
-    <button v-if="deferredPrompt" @onClick="promptInstall">
-      Add to home screen
-    </button>
   </div>
 </template>
 
